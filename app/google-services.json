@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565215903779",
+    "project_id": "lapeto-74fd4",
+    "storage_bucket": "lapeto-74fd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565215903779:android:2d696275a5cb32555ef196",
+        "android_client_info": {
+          "package_name": "com.vivek.lapeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowJJ0rvKMk2DMOBDMjEgnYb66VEeGbXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
