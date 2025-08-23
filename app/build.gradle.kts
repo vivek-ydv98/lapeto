@@ -66,7 +66,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    //Glide
+    //Glid
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.github.bumptech.glide:compose:1.0.0-alpha.1")
 
@@ -104,6 +104,5 @@ dependencies {
 
     //splashScreen
     implementation("androidx.core:core-splashscreen:1.0.1")
-
 
 }
